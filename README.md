@@ -1,2 +1,5 @@
-# ADSE_Projects
-This folder contains all the projects I built while having fun on my ADSE Journey.
+# ADSE_Adventure
+THIS FOLDER CONTAINS SIMPLE CAPSTONE PROJECT TO HELP ME RE-EMPHASIZE CERTAIN LEARNING CONCEPTS.
+
+## ProJect One
+* A simple Calculator
